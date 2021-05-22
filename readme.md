@@ -62,8 +62,7 @@ Done.
 
 Now we are ready to start converting.
 
-<img src="">
-| *__Conversion__*
+## Conversion
 
 1) In Convert To select "QuickTime"
 2) Select "Xvid MOV Davinci Resolve"
